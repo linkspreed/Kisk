@@ -1,4 +1,4 @@
-# <img align="left" alt="Kisk" width="40px" src="https://kisk.tk/public/img/logo_2-1668873361.png" draggable="false" /> Kisk ([Click to try 🚀](https://kisk.tk/))
+# <img align="left" alt="Kisk" width="300px" src="https://kisk.tk/public/img/logo_2-1668873361.png" draggable="false" /> ([Click to try 🚀](https://kisk.tk/))
 
 Kisk ✨ - the best social network for influencers ✍️
 
