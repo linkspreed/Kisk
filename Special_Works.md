@@ -1,4 +1,7 @@
 ###  19.11.2022 (announcement Kisk)
+We're still working on **Kisk**.
+
+###  19.11.2022 (announcement Kisk)
 - https://github.com/linkspreed/Kisk/blob/main/changelog.txt
 - The entire changelog is now available on Github.
 
