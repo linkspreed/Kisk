@@ -1,10 +1,10 @@
-# <img align="left" alt="Kisk" width="40px" src="https://analytix.tk/uploads/brand/ys17CmIE61mY5SrzlKBu2UbanlIvzwW2l7qmb9PX.png" draggable="false" /> Kisk ([Click to try 🚀](https://kisk.tk/))
+# <img align="left" alt="Kisk" width="40px" src="https://kisk.tk/public/img/logo_2-1668873361.png" draggable="false" /> Kisk ([Click to try 🚀](https://kisk.tk/))
 
 Kisk ✨ - the best social network for influencers ✍️
 
 
-## **[Changelog 💙](https://github.com/linkspreed/Analytix/blob/main/changelog.md)** **Check out the full Analytix changelog**
-## **[Special Works 👨‍💻](https://github.com/linkspreed/Analytix/blob/main/Special_Works.md)** **Take a look at what changes we are doing to Analytix besides development**
+## **[Changelog ✍️](https://github.com/linkspreed/Kisk/blob/main/changelog.md)** **Check out the full Kisk changelog**
+## **[Special Works 👨‍💻](https://github.com/linkspreed/Kisk/blob/main/Special_Works.md)** **Take a look at what changes we are doing to Kisk besides development**
 
 
 <div align="center">
