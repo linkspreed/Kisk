@@ -1,0 +1,766 @@
+Update 4.5 // 19 Nov 2022
+
+[Bug Fix] Verify ZIP creator rule
+[Bug Fix] Account verification (Email incorrect)
+[Bug Fix] Stories with text disappeared on close
+[Bug Fix] Pagination with filter on creators, live and categories
+[Bug Fix] Sort pagination on Members on Panel Admin
+[Bug Fix] Invoice error with transaction canceled
+[Bug Fix] Backblaze region missing
+
+[New] Push notification on New messages (Only if the user has 10 minutes offline and less than 1 day)
+[New] Withdrawal option with Western Union
+[New] Restriction of videos to MP4 if encoding is disabled
+[New] Increased story thumbnail size
+[New] Username to registration with first name and ID
+[New] Images and videos adapted in stories on mobile devices
+[New] More visible close story button and it works
+Update 4.4 // 17 Oct 2022
+
+[Bug Fix] Unencoded videos in stories [Important]
+[Bug Fix] Currency JPY error on Stripe Webhook [Important]
+[Bug Fix] URL of story posts in Panel Admin wrong with External Storage [Important]
+
+[New] Alert in Stories > Settings maximum duration of videos only with FFMPEG
+Update 4.3 // 16 Oct 2022
+
+[Bug Fix] Deleting users
+[Bug Fix] Line break stories
+[Bug Fix] Check video encode validate duration video on stories
+[Bug Fix] Send message, and post with only emojis trigger
+[Bug Fix] Autocomplete mentions on dark mode
+[Bug Fix] Margin dropdown menu post
+[Bug Fix] Upload videos not FFMPEG on stories
+[Bug Fix] Default lang on Settings Panel Admin
+[Bug Fix] Physical products category was displayed when disabled
+
+[New] Creator can choose font in story with text
+[New] Creator can choose font color in story with text
+[New] Admin can add Google Fonts for stories
+[New] Click on avatar story go to profile creator
+[New] Percentage of referrals up to 30%
+[New] Emojis on create story with text
+[New] Text on story thumbnails
+[New] Improved stories section with text
+Update 4.2 // 13 Oct 2022
+
+[Bug Fix] User undefined on withdrawals
+[Bug Fix] Icons align messages chat
+[Bug Fix] Avoid landscape on PWA
+[Bug Fix] Backblaze error on theme section and members
+[Bug Fix] Featured option Admin on non-creators
+[Bug Fix] Avoid error send email new subscriber
+[Bug Fix] JavaScript file JQuery UI
+[Bug Fix] Delete product when delete user
+[Bug Fix] Set lang subscription via email
+[Bug Fix] Single quated on verify user “ZIP”
+[Bug Fix] Install App JavaScript error
+[Bug Fix] Error 419 explired Login
+[Bug Fix] Error install with sessions database
+[Bug Fix] Fee cents on Mercadopago
+[Bug Fix] PayPal refund
+[Bug Fix] Download files ZIP public
+[Bug Fix] Cover default not save on Panel Admin
+[Bug Fix] Counter verification request
+[Bug Fix] Alert report pending
+[Bug Fix] Mentions error JavaScript (non-creators)
+[Bug Fix] Withdrawals with Payoneer and Zelle
+[Bug Fix] Insert Emoji on Ajax request
+[Bug Fix] Upload GIF images on Posts and Messages Chat
+
+[New] Stories (Image/Video and Text)
+[New] Creator can see People who have seen the story
+[New] Section Stories on Panel Admin (Settings, Posts, Background images)
+[New] Admin can set max videos length on Stories (10, 15, 20, 30, 60 seconds)
+[New] Push Notifications with OneSignal
+[New] Video views single video
+[New] Removed avatar on edit post modal
+[New] Add URL sitemaps on Docs
+[New] Blog 3 columns
+[New] Enable/Disable PWA
+[New] Catch error on Sign up email not configured
+[New] Catch error on Verify creator email not configured
+[New] Enable/Disable ZIP code on verification request
+[New] Admin can see invoices on Transactions and Deposits
+[New] Add create Cron Job on Plesk on Docs
+[New] Improved login sessions
+[New] Updated to Laravel v8.83.24
+[New] Updated to JQuery 3.6.1
+[New] Updated to Glightbox 3.2.0
+[New] Updated to Plyr 3.7.2
+[New] Replies comments
+[New] Admin can set maximum withdrawal amount
+[New] Filter earnings Creator by: month, last month and year
+[New] Filter earnings Admin by: month, last month and year
+[New] Moved likes and comments counter
+[New] Edit comments
+[New] Show profession on Autocomplete search
+[New] Link Explore posts moved to creators page
+[New] Bookmarks counter on My Posts
+[New] Clear cache on Panel Admin
+[New] Show earnings creator dashboard (Subscription, Tips and PPV)
+[New] Show only free on explore creators card
+[New] Show Alert if payment withdrawal is disabled by Admin
+[New] Creator enable/disable unregistered people can see my posts
+[New] Explorer creators widget moved to Wall (after first post)
+[New] Improved Laravel routes
+Update 4.1 // 24 Aug 2022
+
+[Bug Fix] PayPal delay payments
+[Bug Fix] Key duplicate on composer.json
+[Bug Fix] Default color on theme section Panel Admin
+[Bug Fix] Backblaze error on Panel Admin
+[Bug Fix] Live streaming set-up
+[Bug Fix] Auto-approve post set-up
+[Bug Fix] Bank Transfer without transfer fee
+[Bug Fix] Error 404 Add Physical item
+[Bug Fix] Scroll on edit post
+
+[New] Filter genders and age on categories and others filters.
+[New] Admin can allow or not to upload zip files
+[New] URL Shop on sitemaps
+[New] Tiktok, Github, Snapchat, Reddit and Telegram profiles on Panel Admin
+Update 4.0 // 19 Aug 2022
+
+[Bug Fix] Text monthly on weekly subscriptions
+[Bug Fix] Youtube videos
+[Bug Fix] Country error in invoice user
+[Bug Fix] Mercadopago payment processed
+[Bug Fix] Layout Mail button error
+[Bug Fix] Birthdate user empty
+[Bug Fix] Missing currency symbol tax on pay live and purchase
+[Bug Fix] Vimeo ID
+[Bug Fix] Logout user pending
+[Bug Fix] Link Verify missing via Email
+[Bug Fix] Set language user on resend email by Admin
+[Bug Fix] Report already sent on Post and user reports
+[Bug Fix] Notification to users New post via email (Video Encode)
+[Bug Fix] Button “Add new” showing on off-session and non-creators
+[Bug Fix] Redirection from Google or external website when login
+
+[New] Redesigned Panel Admin Bootstrap 5
+[New] RESTful API PayPal
+[New] Subscription cancel on PayPal
+[New] PayPal Sale Refund
+[New] Updated to Laravel v8.83.23
+[New] Updated Agora SDK v4.13
+[New] Physical products
+[New] Creator can add, Shipping Fee, Country Free Shipping, Quantity Available and Box Content of the physical product
+[New] Categories products
+[New] Admin can chat with any user through private messages
+[New] Disable Login/Register via Email
+[New] Report Item shop.
+[New] Buyer can send a report if you did not receive the product or service custom
+[New] Section Likes
+[New] Changed cents to unit (Dollars) on Payments
+[New] Share profile via QR
+[New] Admin can enable/disable share profile via QR
+[New] Download image QR
+[New] Mentions suggestions on Post create
+[New] Mobile money Flutterwave and M-pesa
+[New] Currency symbol with spaces
+[New] Type of product on cards
+[New] Disable contact form from Panel Admin
+[New] Add currency code on cents (Payments)
+[New] Removed language select on footer if exists only one.
+[New] Sorted notifications type
+[New] Admin can edit balance user.
+[New] Reddit and Spotify on Edit my page
+[New] Admin can specify payment day, for example: Day 15 of Each Month
+[New] Admin can disable notification new post via Email
+[New] Hidden search creators from Panel Admin
+[New] Show tiny footer on Mobile
+[New] Post title, only if it is text and is blocked.
+[New] The withdrawals will be blocked 5 before their payment date to prevent the creator from eliminating it
+[New] Item Shop moderation
+[New] Increase limit post length to 50,000 characters
+[New] Percentage referrals up to 1%
+[New] Updated jQuery library
+[New] Removed fields in useless databases
+[New] Duaration video and quality on posts
+[New] Duaration video and quality on messages
+[New] Filter products shop by categories on Profile creator
+[New] Filter creators by Genders and Age
+[New] Admin can enable/disable filter creators by Genders and Age
+[New] Added Reverse identity document and Selfie Image in verifying account (creator)
+[New] Test SMTP from Panel Admin (Only if SMTP is selected)
+[New] Slogan multilanguage
+[New] Revenue percentages today, week and month in the Panel Admin
+[New] Type of post on Panel Admin (Public or Content locked)
+[New] Auto-follow Admin new registers (Only if the profile is free)
+[New] Admin can enable/disable Auto-follow Admin new registers
+Update 3.9 // 13 Apr 2022
+
+[Bug Fix] Upload SVG images on theme section
+[Bug Fix] Missing fields Telegram, Vk, etc.
+[Bug Fix] URL mobile Youtube m.youtube
+[Bug Fix] Sort videos free and unlockable
+
+[New] Restricted users
+[New] Emoticons on Live Streaming
+[New] Support SVG on images theme section on Logo and Favicon
+[New] Creator receives email when they have a sale
+[New] Hidden Shop when only users registers can view content
+[New] Non-creators can hide their real name
+[New] Changed url notifications new sale
+[New] Mute/unmute audio/video on Live Streaming
+[New] The number of results is shown in the free and unlockable posts sort.
+Update 3.8 // 30 Mar 2022
+
+[Bug Fix] Remove balance if user has Stripe Connect (IMPORTANT)
+[Bug Fix] Refund from balance if creator has no funds or pending withdrawals (IMPORTANT)
+[Bug Fix] Hidden name user in chat non-subscribed
+[Bug Fix] Emoji button align on comments
+[Bug Fix] @mentions and #hashtag with numbers 039
+
+[New] Show direct payments to your account via Stripe Connect in transactions
+[New] Tags Heading in Pages and Blog Editor
+Update 3.7 // 29 Mar 2022
+
+[Bug Fix] Validate bank transfers (Admin)
+[Bug Fix] End Live Streaming
+[Bug Fix] Edit post with video Youtube or Vimeo
+[Bug Fix] Tooltip on payments
+[Bug Fix] Cancel subscription with Wallet
+[Bug Fix] Datepicker on Edit my page
+
+[New] Stripe Connect on Subscription, Tips and PPV
+[New] Notifications on mentions
+[New] Add button “Install Web App” on footer
+[New] Screenshot disable on Web
+[New] Shop section on profile with button Add new
+[New] Filter posts on Explore (Latest, Oldest Unlockable and Free)
+[New] Filter posts on Creator profile (Latest, Oldest Unlockable and Free)
+[New] Search posts on Explore section
+[New] Filter sales creator (Latest, Oldest and Pending)
+[New] Count sales pending on menu section
+[New] Enable/Disable notifications Live Streaming
+[New] Creator can reject custom content and refund money a buyer
+[New] Admin can send refund in Sales section
+[New] Add Telegram, Twitch, Discord and Vk on Edit my page
+[New] Emojis on Comments, Posts, and Messages
+[New] Add PWA Splash resolutions (828×1792 and 1242×2688)
+Update 3.6 // 24 Mar 2022
+
+[Bug Fix] Add funds with Bank Transfer
+
+[New] Add Mollie payment gateway
+[New] Add Razorpay payment gateway
+[New] Enable/disable tax rates in Wallet
+[New] Improved menu organization
+[New] Shop link in navigation bar offline session
+[New] Fee cents on Mercadopago
+Update 3.5 // 21 Mar 2022
+
+[Bug Fix] Mercadopago
+[Bug Fix] Hashtag on PHP 8
+[Bug Fix] Padding title Hashtag on explore page
+[Bug Fix] File size on Shop
+[Bug Fix] Validation tags on Shop
+[Bug Fix] Add funds with Bank Transfer
+[Bug Fix] Search Hashtag
+[Bug Fix] Save max price on Shop
+
+[New] Show all posts on explore page
+[New] Moderate downloadable content in Shop
+[New] Metadata on Shop (share)
+[New] Link view all on Shop
+Update 3.4 // 17 Mar 2022
+
+[Bug Fix] Uploading encoded video on Amazon S3
+[Bug Fix] Add funds in Coinpayments
+[Bug Fix] Finished in Free Live
+[Bug Fix] Apply fees on Pay Per View (PPV)
+[Bug Fix] Overflow tables on payments
+[Bug Fix] Stripe billing for old subscriptions
+[Bug Fix] Save address after send verification
+[Bug Fix] CCBill subscriptions
+[Bug Fix] Paystack subscriptions
+[Bug Fix] Invoices subscriptions for week, 3, 6, 12 months
+[Bug Fix] Notifications duplicate on rebill subscriptions PayPal
+[Bug Fix] Error when subscription deleted on My subscriptions section
+[Bug Fix] Date format on Edit my page
+[Bug Fix] Static function on Invoices
+
+[New] Add Shop
+[New] Creators can sell Digital content for example: Downloadable products, image packages, videos, etc.
+[New] Creators can sell Custom content for example: Custom videos, video calls, greeting messages, etc.
+[New] Add Mercadopago payment gateway
+[New] Add Flutterwave payment gateway
+[New] CDN DigitalOcean
+[New] Pages private
+[New] Admin can create pages only visible to creators or registered members
+[New] Referrals in Admin Panel
+[New] Resolution of Live Streaming
+[New] Removed section of ZIP files if you don’t have any files
+[New] Hashtag support
+[New] Stripe Checkout on Add funds (Wallet)
+[New] Updated to Laravel 8.83.4
+Update 3.3 // 31 Jan 2022
+
+[Bug Fix] Price plans on Stripe and Paystack were not updated when creator changed the price
+[Bug Fix] Unsubscribe from subscriptions with wallet
+[Bug Fix] Price in PPV messages showed the applied tax
+[Bug Fix] Decimal error in Javascript calculations
+[Bug Fix] Undefined index in PayPal Controller
+Update 3.2 // 24 Jan 2022
+
+[Bug Fix] Subscription not available on Pay Per View
+[Bug Fix] Free subscription was not saved
+[Bug Fix] Free subscription activates division by zero error
+[Bug Fix] Free subscription for new creators was not set up
+[Bug Fix] Monthly subscription was not saved
+Update 3.1 // 19 Jan 2022
+
+[Bug Fix] Important bug with Stripe Suscriptions
+[Bug Fix] Country null on local
+Update 3.0 // 19 Jan 2022
+
+[Bug Fix] Converting large videos (They were not published)
+[Bug Fix] Live stream on Iphone (no audio)
+[Bug Fix] Subscription ID on CCBill
+[Bug Fix] Add funds with Coinpayments
+[Bug Fix] Payments with Wallet
+[Bug Fix] Maximum rank in birthday date (18 years old)
+[Bug Fix] Live stream redirect to home
+[Bug Fix] Cancelation transactions on Panel Admin
+[Bug Fix] Amount max 999 on wallet recharge
+[Bug Fix] Open images lightbox on Pay Per View (Messages)
+[Bug Fix] Referral earnings with low amounts and creator custom fee
+[Bug Fix] Truncate URL on Profile
+
+[New] Subscriptions Packages (Weekly, 3 months, 6 months and 1 year)
+[New] Tax Rates by country and state
+[New] Tax Rates integrate with Stripe
+[New] Tax rates applied to subscriptions, tips, pay per view, and on live broadcasts
+[New] Live streaming Free (Admin can disable)
+[New] Availability of live streaming: Available to everyone (Paid), Free for paying subscribers, Free for everyone
+[New] Live streaming time limits (Paid and Free)
+[New] Live streaming block by country
+[New] Link to the Live stream by clicking on the avatar from the profile
+[New] Shown in the creators section if a creator is live
+[New] If the live stream ends the notification changes from “is streaming live” to “streamed live”
+[New] Added button to activate/deactivate audio in Live, crucial for blocking some browsers and devices
+[New] Chunk uploads
+[New] Add/delete country from Panel Admin
+[New] Add/delete states from Panel Admin
+[New] New formts upload (.mkv, .avi, .flv, .wmv and .mpg)
+[New] Updated to Laravel 8.78
+[New] Updated to Agora 4.8.1
+[New] Live streaming section full size
+[New] Admin can set whether to use Digital Ocean CDN
+[New] Admin decides if the creator can withdraw the entire balance or a custom amount
+[New] Source HTML in creating pages and blogs in Panel Admin
+[New] Login Modal on all pages (except Contact)
+[New] If there are no blogs in the link, it does not appear
+Update 2.9 // 30 Dec 2021
+
+[Bug Fix] Embed video Youtube without text
+[Bug Fix] Delete account missing button
+[Bug Fix] Access to “Announcements” section in Panel Admin
+[Bug Fix] Slug url Pages
+[Bug Fix] Maintenance mode
+[Bug Fix] Message duplicate on chat
+
+[New] Live Streaming
+[New] User can select withdrawal amount
+[New] Tiktok and Snapchat (Creators and Panel Admin)
+[New] Referrals link in menu dropdown
+[New] Admin can edit email from Panel Admin
+Update 2.8 // 13 Dec 2021
+
+[Bug Fix] Rebill in Wallet
+[Bug Fix] URL user repoted in Panel Admin
+[Bug Fix] Pagination in Notifications overflow
+[Bug Fix] Delete old code resend 2FA
+[Bug Fix] Turn off Maintenance mode
+
+[New] Updated to Laravel 8
+[New] Laravel Cashier 13 updated Webhook
+[New] Limit of transactions by referrals (1 to 100 or unlimited)
+[New] Enable / Disable video conversion and watermark, can now be used in shared hosting
+[New] Notify subscribers when creator changes subscription to free or paid
+[New] If the creator changes the subscription to paid, the free subscriptions are canceled and the subscriber is notified
+[New] Add 2% and 3% on Percentage of profit for each referral
+[New] Referrals on Social Login
+[New] Filter Admins on Panel Admin
+[New] Notify creator when you receive a subscription renewal payment
+[New] Set default language
+[New] Cookies expire 1 year
+[New] Multilanguage pages (Terms, Privacy, etc)
+Update 2.7 // 06 Dec 2021
+
+[Bug Fix] Media is not displayed on explore page
+[Bug Fix] Video encode established privately on DigitalOcean and AWS
+[Bug Fix] Video encode audio
+[Bug Fix] User delete on Panel Admin -> Post
+[Bug Fix] Editing a post
+[Bug Fix] Country block not established
+[Bug Fix] Delete encode video notifications, if the video is deleted
+
+[New] Referral System
+[New] 2FA Security
+[New] It shows how much a token, credit or point is equivalent in modal Subscriptions, Tips and PPV
+[New] Show type the media in Panel Admin -> Posts and My Posts section
+[New] Creator can search any user to send a message
+[New] Enable/Disable watermark on videos
+[New] Driver Log in Email settings (For test)
+[New] Moved the Delete account link, to the Privacy and Security section
+Update 2.6 // 29 Nov 2021
+
+[Bug Fix] Hide profile still show in popular section
+[Bug Fix] Price PPV on post not change when is edited
+[Bug Fix] Subscription show on Panel Admin Dashboard after delete user
+[Bug Fix] Calculation of percentage of revenue in the creator’s dashboard
+[Bug Fix] Protection of url focus in images
+[Bug Fix] Ambiguous Categories status
+[Bug Fix] Language in PPV Edit post
+[Bug Fix] URL resources on Blackblaze B2 in blog
+[Bug Fix] Delete user with messages
+[Bug Fix] Poster video set private in DigitalOcean
+[Bug Fix] Captcha error in Contact us
+[Bug Fix] PWA error login
+[Bug Fix] PayPal renew subscription
+[Bug Fix] Wallet format when send tip
+[Bug Fix] Search users by name with hidden name
+[Bug Fix] Edit categories with spaces
+[Bug Fix] Delete old media messages (Cron Job)
+[Bug Fix] Video embed with multiple files
+
+[New] Role and permissions
+[New] Encoding video in Post (.mp4)
+[New] Encoding video in Message (.mp4)
+[New] Watermark on videos
+[New] Creators can block countries
+[New] Approve/Reject Post
+[New] New section My Posts
+[New] Type of Announcements (Informative and Important)
+[New] Enable/Disable notifications Liked your comment (All users)
+[New] Show link Explore Posts in mobile
+[New] Amount total in invoice deposits
+[New] Show minimum amount in tip
+[New] Search by name adn username
+[New] VAT number on invoices
+[New] New gender (Couple)
+[New] Improved Creator Dashboard
+[New] Improved Panel Admin
+Update 2.5 // 09 Oct 2021
+
+[Bug Fix] Videos and music were not working on some devices
+[Bug Fix] Featured creators on Homepage without active subscription
+[Bug Fix] Maximum size in GB in uploads
+[Bug Fix] Interference with other gateways and Coinpayments
+[Bug Fix] Editing PPV did not show price if the form price was clicked
+[Bug Fix] Currency erroneous alert on Coinpayments
+[Bug Fix] Emails with long name were not displayed in Edit member, it was moved
+[Bug Fix] Images GIF in multiple uploads (animation was removed)
+[Bug Fix] PayPal subscription renew
+
+[New] Like in comments
+[New] Payoneer payments in withdrawals
+[New] Zelle payments in withdrawals
+[New] Admin decides if captcha appears on contact us page
+[New] Disable Tips
+[New] Link my purchases on mobile menu and homepage menu
+[New] Featured creators random in homepage (Without logging in)
+[New] Post PPV blocked for all users
+[New] Posts PPV in Explore page
+[New] Share post in Facebook, Twitter, WhatsApp and Text Message
+Update 2.4 // 01 Oct 2021
+
+[Bug Fix] Resend email from Admin
+[Bug Fix] Align center text on cards
+[Bug Fix] Pop-out suscriptions show wrong percentage custom
+[Bug Fix] User country in member verification (Panel Admin)
+[Bug Fix] Dates in transactions
+[Bug Fix] Hide country in box cards
+[Bug Fix] Timestamp error on transactions, deposits, blog and reports
+[Bug Fix] Update story non-creators
+[Bug Fix] Border cards on explore
+[Bug Fix] Subscription paid, showed post blocked (PPV)
+[Bug Fix] Back link on chat
+[Bug Fix] Percentage subscription in Wallet
+[Bug Fix] Download ZIP on Pay Per View
+[Bug Fix] Pagination in messages (inbox)
+[Bug Fix] Non well formed numeric on payments
+[Bug Fix] Remove Postmark
+[Bug Fix] Rounded chat button
+[Bug Fix] Tips on Message chat with PayPal
+[Bug Fix] Pay Per View on Message chat with PayPal
+[Bug Fix] Delete cover default
+[Bug Fix] Download ZIP file (creator)
+[Bug Fix] Size box on creators cards
+[Bug Fix] Hide text in inbox message if it is PPV
+[Bug Fix] Status subscription incorrect
+[Bug Fix] PayPal HTTP interruption modification of amounts
+[Bug Fix] Notifications PPV
+[Bug Fix] Creating a blog post
+[Bug Fix] Last messages (inbox)
+[Bug Fix] Deposits from a deleted user
+[Bug Fix] Removed “Be a creator” link if verification requests are disabled
+[Bug Fix] Language predefined by the user in the emails
+[Bug Fix] Static scrolling elements
+[Bug Fix] Filtering Featured Creators
+
+[New] Multiple file uploads in one post
+[New] Multiple file uploads in one message
+[New] Redesigned message section
+[New] Creator can send message to all its subscribers at the same time (Mass Messages)
+[New] Coinpayments payment gateway
+[New] Premium plugin upload
+[New] Lightbox GLightbox
+[New] FFMPEG support to create thumbnails for the videos.
+[New] Admin can choose the wallet format (Real Money, Credits, Points or Tokens)
+[New] Admin can choose which payment gateways to use in subscriptions
+[New] Cron Jobs to delete files and rebill subscriptions that were paid with the wallet
+[New] Protection of videos and audios, if they share the URL the other person will not be able to see it if they are not subscribed
+[New] Blocked posts now show an image, or poster of a blurred video
+[New] Homepage login 3 columns
+[New] Explore creators section 2 columns
+[New] Infinite scroll in messages (Inbox)
+[New] Creator can set more than one category
+[New] Full url in profile
+[New] Members section in Admin Panel can be filtered by ID, Creators and Pending Email Verification
+[New] Explore section, where all free publications are displayed.
+[New] Bookmarks section changed
+[New] The admin can create Announcements that will be shown in Homepage login, and can decide who to see: All or Only creators
+[New] Hide active status (Online)
+[New] User can set their date of birth only once
+[New] User age in profile
+[New] Admin can add balance to user wallet from panel admin
+[New] Forced download to PDF in user verification
+[New] Popular and most active filters in Explore Creators
+[New] Subscription price in cards in Explore creators
+[New] Admin can set photo limits in a post or message, number of tags that the creator can choose
+[New] Admin will receive an email when there is a new account verification (creators), pending deposit or new withdrawal
+[New] Creator will receive an email when you receive a tip or PPV
+[New] The user will receive an email when a creator who is subscribed creates a post
+[New] Send email new subscriber to creator in free subscriptions
+[New] Name of creator in transactions (panel admin)
+[New] Disable banner cookie policy
+[New] Link to send a message to a subscriber from the My Subscribers section
+[New] Increased size cover
+Update 2.3 // 06 Mar 2021
+
+[Bug Fix] Creating plan in Paystack
+[Bug Fix] Ajax comments, posts
+[Bug Fix] Installer
+[Bug Fix] Tips on Wallet with Stripe
+[Bug Fix] Delete users, bug in subscriptions
+[Bug Fix] Stripe Payments Incomplete
+[Bug Fix] Rotate images in blog
+[Bug Fix] Bug with ZIP files in Mac OS
+[Bug Fix] Single pinned post not showing up
+[Bug Fix] Editing post with ZIP file removed the file name and size
+
+[New] Pay Per View on Post and Messages
+[New] Improved the mobile chat section
+[New] Custom percentage for creators
+[New] Filters Free subscriptions on Explore page
+[New] Collapse comments
+[New] Admin can set percentage to 0% (Platform)
+[New] Username limit increased to 25
+[New] Delete comments from other users on posts
+[New] Show username instead of full name.
+[New] Disable count subscribers
+[New] Increased limits to price on database
+[New] Protected ZIP files not subscribers
+[New] Cover default from Admin
+[New] Percentage applied in transactions on the payment page
+[New] Admin can decide who can see the content, profiles page to explore, only registered users or all
+[New] Admin can decide if creators can delete / edit their posts if they have subscribers (Protect users)
+[New] Added link to W-9 Form
+[New] Delete cards Stripe/Paystack
+[New] Hide my country on profile
+[New] Show my Birthdate on profile
+[New] Disable wallet from admin panel
+[New] Invoices for deposits
+[New] Datepicker on Birthdate
+[New] Now you can add funds and send tips in Paystack without adding cards
+Update 2.2 // 21 Feb 2021
+
+[Bug Fix] Redirection of payments
+[Bug Fix] CCBill approval payments
+[Bug Fix] PayPal tips
+[Bug Fix] Deleting rejected checks if the user has deleted their account
+[Bug Fix] Bucket ID Backblaze B2 Storage
+[Bug Fix] Stripe Payments Incomplete
+[Bug Fix] Resend emails on Panel Admin
+[Bug Fix] Add funds without fees in CCBill
+[Bug Fix] Tips are not saved in CCBill
+[Bug Fix] Button subscription missing in CCBill
+[Bug Fix] Avatar default in verify account
+[Bug Fix] Removed “My cards” section if Stripe and Paystack are disabled
+
+[New] Short name in PWA
+[New] Full size screen post in mobile
+[New] Mobile menu of the set color of the header in Panel Admin
+[New] Subscriber count in profile
+[New] New genres (managed from the Admin Panel)
+[New] Privacy and Security section
+[New] Last login session
+[New] Sessions will be saved in the database
+[New] Hide profile
+[New] Hide last seen
+[New] Enable/disable notifications when creator receives a tip.
+Update 2.1 // 16 Feb 2021
+
+[Bug Fix] Important bug with Paystack and CCBill (wrong redirects)
+[Bug Fix] Important bug with Backblaze B2 Storage
+Update 2.0 // 15 Feb 2021
+
+[Bug Fix] Removed line break on posts
+[Bug Fix] Verify mail on registration message (Modal)
+[Bug Fix] Editing Pinterest
+[Bug Fix] User report
+[Bug Fix] User URL edited in real time when username is changed in Edit my page
+[Bug Fix] Deleting subscriptions when Admin deletes user
+[Bug Fix] Hidden users that I have no subscription price, in Explore creators
+[Bug Fix] Fixed bug in active subscriptions
+[Bug Fix] Cancel subscriptions in Stripe
+[Bug Fix] Subscription button missing if price is 0.00 with free subscription
+[Bug Fix] Removed subscribe button in posts blocked if the creator has not set a price or has a free subscription.
+[Bug Fix] Name is displayed instead of username in reports
+[Bug Fix] Verification request when a user is deleted
+[Bug Fix] Free subscription canceled in Admin Panel, when active.
+[Bug Fix] Decimal separator in earnings simulator, now use the one set in the Admin Panel
+[Bug Fix] Conflict in tip buttons in the user profile
+[Bug Fix] Removing transactions (Canceling)
+[Bug Fix] Removing transactions (Wallet Deposits) did not reimburse the user.
+[Bug Fix] Creating Plan in Stripe
+[Bug Fix] Block filling of paragraphs in the index
+[Bug Fix] Removed alert must set price in session not started
+[Bug Fix] Changed cancel text in Transactions
+[Bug Fix] Logo and Login button aligned in the navigation bar.
+
+[New] CCBill Payment Gateway
+[New] Paystack Payment Gateway
+[New] PayPal recurrent
+[New] Progressive Web Apps (PWA)
+[New] Menu style Onlyfans on mobile devices
+[New] Backblaze B2 Cloud Storage
+[New] Vultr Cloud Object Storage
+[New] Improved account verification, now users must complete their profile to submit a request
+[New] Users must submit form W-9 in account verification if they are US citizens
+[New] Improved the quality of the images in the posts
+[New] Custom CSS and JS on Panel Admin
+[New] Adult content alert (Admin can either enable or disable)
+[New] Loading bar on mobile devices
+[New] Redirection to the user’s profile when registering
+[New] Added revenue of the day, of the week and of the month in the creator’s dashboard, in addition to the percentage compared to the day, the week or the previous month
+[New] The number of pending deposits is displayed in the admin panel
+[New] The total likes of all the posts in the profile are displayed
+[New] Ajax Load chat
+[New] Gender and date of birth of the user is displayed in the admin panel
+[New] Maximum amount in wallet
+[New] Enable or disable errors from admin panel
+[New] Alert creator to set a price or free subscription to activate subscriptions
+[New] Show ZIP file size in blocked post
+[New] Section “My Cards”
+[New] Default color in earnings simulator buttons.
+[New] Increased load limit to 5GB in admin panel
+[New] Now if the user cancels their subscription, they will have access until its expiration date (except free subscriptions)
+[New] Updated to Laravel 7.30.4
+Update 1.9 // 23 Jan 2021
+
+[Bug Fix] Links to user profile in deposits
+[Bug Fix] Embedded Youtube and Vimeo videos
+[Bug Fix] Infinite scroll on mobile
+[Bug Fix] Validating reports
+[Bug Fix] Default amount in earnings simulator
+
+[Missing] TipController [Important]
+
+[New] Removed the admin profile completely (If it is hidden from the admin panel) only visible to him.
+[New] Removed creator sections for non-creators.
+[New] Removed creators from the explore, categories, and search section if it does not have a set price.
+[New] Watermark on images sent by private message.
+[New] Added version to CSS and JS files to force download in new versions.
+[New] Sending reports via Ajax
+[New] The admin can login to any user account to edit.
+Update 1.8 // 20 Jan 2021
+
+[Bug Fix] Login and register, multiple reCAPTCHA error
+[Bug Fix] Birthdate
+[Bug Fix] Navbar expand, not show in Tablet
+[Bug Fix] Safari avatar overlay
+[Bug Fix] Color text on footer-tiny and dropdown
+[Bug Fix] Favicon on invoice
+[Bug Fix] Removed cal_days_in_month()
+
+[New] Wallet System
+[New] Free subscriptions
+[New] Added Bank transfer in Wallet
+[New] The user can subscribe or send tips with the balance of their wallet
+[New] ZIP Upload in posts
+[New] ZIP Upload in messages
+[New] Embed Youtube and Vimeo videos
+[New] Tips in messages
+[New] Show tip option if the post is free or the user is subscribed
+[New] Disable account verification requests from admin panel
+[New] Added watermark with creator url in images
+[New] Media type in unlock post
+[New] Added Blog and posts in sitemaps
+[New] Creator name is now displayed instead of username in account verification in admin panel
+[New] Added type of transaction in the admin panel (Tip or Subscription)
+[New] Subscription page, set price and choose free subscription or not.
+[New] Collapse categories on category and creator page
+[New] Hide / Show Admin Profile
+[New] Cancel subscriptions from profile
+[New] Earnings simulator on homepage
+[New] Ajax edit post
+[New] Ajax edit my page
+[New] Hidden payment methods from non-creators
+[New] Disable right click, drag and drop on images
+[New] Image protection, the image will not be accessible from another location if it is not subscribed.
+[New] Subscription button removed if the creator has no posts
+[New] Autocomplete when searching for a creator
+[New] Changed cards “explores creators” with auto reload in ajax
+[New] Added EXIF validation in installer
+[New] From the admin panel you can enable / disable (Show earnings simulator on the homepage, Receive verification requests, Hide Admin profile, Watermark on images)
+Update 1.7 // 30 Dec 2020
+
+[Bug Fix] Birthdate
+[Bug Fix] Registry
+[Bug Fix] Missing message when registering and activating account (Home Login)
+[Bug Fix] Password recover
+[Bug Fix] Tip invoice
+
+[New] Registered users via social login can create a password.
+
+
+Update 1.6 // 24 Dec 2020
+
+[Bug Fix] Subscription message inactive
+[Bug Fix] PayPal missing plan
+[Bug Fix] Css input tags on Panel Admin
+[Bug Fix] Authenticate language redirect
+[Bug Fix] SEO description.
+[Bug Fix] The plan is created in stripe if it does not exist
+[Bug Fix] Category scrolling error
+
+[New] Added Tip
+[New] Added language Español
+[New] Added two different theme homepage
+[New] Added Twitter Login
+[New] Added Chart on PanelAdmin
+[New] Admin can forward verification email to user
+[New] Admin can change user status from admin panel
+[New] Removed the section of photos, videos, etc. to non-creators
+[New] Added date of birth
+[New] Added gender
+[New] From the admin panel you can change the colors of the navigation bar and footer
+[New] Delete comments using ajax
+[New] Registration and Login via ajax
+[New] Now instead of redirecting to the login, a login or registration modal is shown
+[New] Increased image limit verification
+[New] Added ZIP format to account verification
+[New] Added new options in report user
+[New] Admin can disable payment methods
+[New] Added HOST in installation
+[New] Added alert in account verification, if it is in process
+[New] Changed share user profile
+[New] Added number of photos, videos and audio in cards user
+[New] Added “Get access” button in blocked post
+[New] Translated categories and pages
+[New] Updated to Laravel 7.30
