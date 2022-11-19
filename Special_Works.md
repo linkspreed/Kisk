@@ -1,4 +1,9 @@
 ### 19.11.2022 (announcement Kisk)
+- The launch of version 4.5 of **Kisk** was successful! 🥳
+- The new update is live now :)
+- https://kisk.tk 🔗
+
+### 19.11.2022 (announcement Kisk)
 - We are now starting the launch of v4.5.
 
 ### 19.11.2022 (announcement Kisk)
