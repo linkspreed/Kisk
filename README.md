@@ -1,7 +1,6 @@
-# <img align="left" alt="Analytix" width="40px" src="https://analytix.tk/uploads/brand/ys17CmIE61mY5SrzlKBu2UbanlIvzwW2l7qmb9PX.png" draggable="false" /> Analytix ([Click to try 🚀](https://analytix.tk/))
+# <img align="left" alt="Kisk" width="40px" src="https://analytix.tk/uploads/brand/ys17CmIE61mY5SrzlKBu2UbanlIvzwW2l7qmb9PX.png" draggable="false" /> Kisk ([Click to try 🚀](https://kisk.tk/))
 
-Analytix💙 - as a developer,👨‍💻 get deep insights and analyzes for your websites📈 - free of charge, unlimited storage space and in real time
-
+Kisk ✨ - the best social network for influencers ✍️
 
 
 ## **[Changelog 💙](https://github.com/linkspreed/Analytix/blob/main/changelog.md)** **Check out the full Analytix changelog**
