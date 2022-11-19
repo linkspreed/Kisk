@@ -1,4 +1,7 @@
 ### 19.11.2022 (announcement Kisk)
+- The servers are now ready for the launch of version 4.5 for **Kisk**.
+
+### 19.11.2022 (announcement Kisk)
 - The code is now ready for the launch of version 4.5 for **Kisk**.
 
 ### 19.11.2022 (announcement Kisk)
