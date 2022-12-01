@@ -1,3 +1,6 @@
+### 01.12.2022 (announcement Kisk)
+- We continue to work on **Kisk**. :D
+
 ### 21.11.2022 (announcement Kisk)
 - The **Kisk** PWA is ready! 📱
 
