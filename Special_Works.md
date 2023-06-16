@@ -1,3 +1,6 @@
+### 16.06.2023 (announcement Kisk)
+- 🚨 Big news! 🚨 Our subdomain system just got even better with the addition of Kisk! 👏🏼😍 That means https://kisk.tk now redirects to https://kisk.linkspreed.com - but don't worry, nothing changes for you on the front end. 🌟 Have you tried Kisk yet? Let us know below! 👇🏼 #linkspreed #webdevelopent #kisk #subdomains
+
 ### 01.12.2022 (announcement Kisk)
 - The live stream function on **Kisk** is now available for free!
 - https://user-images.githubusercontent.com/102324985/205148169-10c50918-b980-43aa-a40d-df03ed6055f8.png
